@@ -23,11 +23,11 @@
 		</nav>
 	</header>
 	<section>
-		<strong>Demonstration of a simple page layout using HTML5 tags: header, nav, section, main, article, aside, footer, address.</strong>
+		<strong>About Us</strong>
 	</section>
 	<section id="pageContent">
 		<aside>
-			<div>Sidebar 1</div>
+			<div>Announcements</div>
 			<div>Sidebar 2</div>
 			<div>Sidebar 3</div>
 		</aside>
