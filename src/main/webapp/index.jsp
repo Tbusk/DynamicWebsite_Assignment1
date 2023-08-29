@@ -57,7 +57,7 @@
 						<td>Francisco Chang</td>
 						<td>Mexico</td>
 					</tr>
-				</table> 
+				</table>
 			</article>
 			<article>
 				<h2>Ex ignota epicurei quo</h2>
