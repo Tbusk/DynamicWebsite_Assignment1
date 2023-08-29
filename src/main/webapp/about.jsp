@@ -9,7 +9,7 @@
 <meta name="description"
 	content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
 <link rel="stylesheet" href="assets\css\stylesheet.css">
-<script src="script.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 </head>
 
 <body>
@@ -29,11 +29,13 @@
 		<strong>About Us</strong>
 	</section>
 	<section id="pageContent">
-		<aside>
-			<div>Announcements</div>
-			<div>Sidebar 2</div>
-			<div>Sidebar 3</div>
-		</aside>
+		<p id="assignmentText">This is the Week 1 assignment</p>
+		<br>
+		<button onclick=turnTextRed()>Turn Text Red</button>
+		<br> <br>
+		<button id="turnTextBlue">Turn Text Blue</button>
+		<br> <br>
+		<button id="turnTextGreen">Turn Text Green</button>
 	</section>
 	<footer>
 		<p>
@@ -46,7 +48,7 @@
 		</address>
 	</footer>
 
-
+	<script src="assets/js/scripts.js"></script>
 </body>
 
 </html>

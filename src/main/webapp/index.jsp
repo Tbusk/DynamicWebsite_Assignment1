@@ -9,7 +9,7 @@
 <meta name="description"
 	content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
 <link rel="stylesheet" href="assets\css\stylesheet.css">
-<script src="script.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 </head>
 
 <body>
@@ -43,19 +43,19 @@
 				<h2>HTML Tables</h2>
 				<table>
 					<tr>
-						<th>Company</th>
-						<th>Contact</th>
-						<th>Country</th>
+						<th>Person 1</th>
+						<th>Person 2</th>
+						<th>Person 3</th>
 					</tr>
 					<tr>
-						<td>Alfreds Futterkiste</td>
-						<td>Maria Anders</td>
-						<td>Germany</td>
+						<td>Emil</td>
+						<td>Tobias</td>
+						<td>Linus</td>
 					</tr>
 					<tr>
-						<td>Centro comercial Moctezuma</td>
-						<td>Francisco Chang</td>
-						<td>Mexico</td>
+						<td>16</td>
+						<td>14</td>
+						<td>10</td>
 					</tr>
 				</table>
 			</article>
@@ -93,7 +93,7 @@
 		</address>
 	</footer>
 
-
+	<script src="assets/js/scripts.js"></script>
 </body>
 
 </html>
