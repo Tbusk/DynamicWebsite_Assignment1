@@ -278,7 +278,7 @@ address {
 	padding: 10px 20px 30px 10px;
 }
 
-aside>div {
+aside > div {
 	margin: 10px auto;
 	background: #BA0C2F;
 	min-height: 100px;
