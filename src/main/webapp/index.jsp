@@ -9,7 +9,7 @@
 <meta name="description"
 	content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
 <link rel="stylesheet" href="assets\css\stylesheet.css">
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
 
 <body>
